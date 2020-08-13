@@ -1,7 +1,10 @@
-#Classification Machine Learning Technique - Not regression
+#Assignment: Build and train a working model using machine learning to predict the diagnosis of breast cancer tumors given certain data (predict whether the tumor is benign or malignant)
+
+#Classification Machine Learning Technique
 #Build a model which tells whether a tumor is benign or malignant and what features affect this
 #Build multiple models
 
+#Libraries used (in alphabetical order)
 library(caret)
 library(corrplot)
 library(cowplot)
